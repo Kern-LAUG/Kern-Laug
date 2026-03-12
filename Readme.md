@@ -130,7 +130,7 @@ C:\Kern\
 7. Add:
 
 ```
-C:\Kern\compiler
+C:\Kern\compiler\
 ```
 
 8. Click **OK** on all windows.
